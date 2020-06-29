@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+__Cats are the gods of *the realm*__
 Use the left arrow to go back!
